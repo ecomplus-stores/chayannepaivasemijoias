@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Semi joias de luxo",
+  "meta_description": "O interessante das semi joias, é que elas possui um preço acessível com designs incríveis de joias ",
   "sections": [
     {
       "type": "banner-slider",
@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/0_-65-1-1-.jpg",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "mobile_img": "/img/uploads/0_-65-1-1-.jpg"
         },
         {
           "start": "",
