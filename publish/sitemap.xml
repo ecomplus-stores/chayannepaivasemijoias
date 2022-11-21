@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/correntes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/aneis</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/pulseiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/braceletes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/brincos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://chayannepaivasemijoias.netlify.app/tornozeleira</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://chayannepaivasemijoias.netlify.app/brinco-dourado</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -656,39 +692,9 @@
     </url>
   
     <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/correntes</loc>
+      <loc>https://chayannepaivasemijoias.netlify.app/95207</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/aneis</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/pulseiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/braceletes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/brincos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://chayannepaivasemijoias.netlify.app/tornozeleira</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
