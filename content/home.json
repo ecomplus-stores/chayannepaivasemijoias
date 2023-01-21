@@ -38,6 +38,12 @@
       "type": "page-title",
       "title": "",
       "description": ""
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/0_-65-1-1-.jpg",
+      "mobile_img": "/img/uploads/0_-65-1-1-.jpg",
+      "link": "https://chayannepaivasemijoias.netlify.app/"
     }
   ]
 }
