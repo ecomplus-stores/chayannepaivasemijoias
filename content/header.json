@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "@chayannepaivasemijoias ",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#0e0e0e"
   },
   "contacts_stripe": {
     "pages": [
