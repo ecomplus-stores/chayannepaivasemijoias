@@ -16,7 +16,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/chay1.jpeg"
+          "img": "/img/uploads/chay1.jpeg",
+          "mobile_img": "/img/uploads/chay1.jpeg"
         }
       ]
     },
