@@ -33,12 +33,6 @@
       "headless": false,
       "limit": "",
       "page": ""
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/0_-171-1-.jpg",
-      "mobile_img": "/img/uploads/0_-65-1-1-.jpg",
-      "link": "https://chayannepaivasemijoias.netlify.app/"
     }
   ]
 }
