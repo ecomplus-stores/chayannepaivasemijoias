@@ -22,7 +22,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
@@ -35,19 +35,10 @@
       "page": ""
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
-    },
-    {
       "type": "responsive-banner",
-      "img": "/img/uploads/0_-65-1-1-.jpg",
+      "img": "/img/uploads/0_-171-1-.jpg",
       "mobile_img": "/img/uploads/0_-65-1-1-.jpg",
       "link": "https://chayannepaivasemijoias.netlify.app/"
-    },
-    {
-      "type": "custom-html",
-      "html": "https://chayannepaivasemijoias.netlify.app/"
     }
   ]
 }
