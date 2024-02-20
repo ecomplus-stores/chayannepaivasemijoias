@@ -15,6 +15,16 @@
       "headless": false,
       "limit": "",
       "page": ""
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img-20240219-wa0002.jpg",
+      "mobile_img": "/img/uploads/img-20240219-wa0002.jpg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img-20240219-wa0003.jpg",
+      "mobile_img": "/img/uploads/img-20240219-wa0003.jpg"
     }
   ]
 }
