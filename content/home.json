@@ -3,6 +3,25 @@
   "meta_description": "O interessante das semi joias, é que elas possui um preço acessível com designs incríveis de joias ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img-20240219-wa0002.jpg",
+          "mobile_img": "/img/uploads/img-20240219-wa0002.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img-20240219-wa0003.jpg",
+          "mobile_img": "/img/uploads/img-20240219-wa0003.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -15,16 +34,6 @@
       "headless": false,
       "limit": "",
       "page": ""
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img-20240219-wa0002.jpg",
-      "mobile_img": "/img/uploads/img-20240219-wa0002.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img-20240219-wa0003.jpg",
-      "mobile_img": "/img/uploads/img-20240219-wa0003.jpg"
     }
   ]
 }
