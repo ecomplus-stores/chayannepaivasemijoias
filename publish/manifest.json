@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ef087154a576d0da0441c20b6341faa9.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.10f869db1a68ae243cfb4cf45cbd77b4.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.be4fa02744b4490c04e9dbaf70da6088.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.8e8fdb69d4a66367b5384cd6a9bbae50.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.629d9b4d7fdf65ce300213db1948949e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "chayannepaivasemijoias",
+  "short_name": "chayannepaivasemijoias",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "chayannepaivasemijoias ",
+  "background_color": "#090909",
+  "theme_color": "#222831"
+}
